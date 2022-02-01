@@ -22,7 +22,7 @@
   "image": "heroku/ruby",
   "buildpacks": [
     {
-      "url": "https://github.com/paketo-buildpacks/tiny-builder"
+      "url": "https://github.com/heroku/heroku-buildpack-java"
     }
   ],
   "environments": {
