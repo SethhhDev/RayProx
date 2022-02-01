@@ -5,5 +5,9 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "html", "proxy"]
 }
+ "buildpacks": [
+    {
+      "url": "https://github.com/stomita/heroku-buildpack-nodejs"
+    }
+  ],
 "stack": "container",
-"start": "node app.js",
