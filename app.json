@@ -6,4 +6,4 @@
   "keywords": ["node", "html", "proxy"]
 }
 "stack": "container",
-"start": "node app.js" 
+"start": "node app.js",
