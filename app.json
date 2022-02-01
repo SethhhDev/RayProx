@@ -1,9 +1,9 @@
 {
-  "name": "Small Sharp Tool",
-  "description": "This app does one little thing, and does it well.",
+  "name": "RayProx"
+  "description": "Simple and Fast Proxy."
   "keywords": [
     "Proxy",
-    "HTML",
-    "Unblocker"
-  ],
+    "Unblocker",
+    "HTML"
+  ]
 }
