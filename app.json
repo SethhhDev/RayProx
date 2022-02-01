@@ -5,5 +5,19 @@
     "Proxy",
     "Unblocker",
     "HTML"
-  ]
+  ],
+  "website": "google.com",
+  "repository": "https://github.com/SethhhDev/RayProx",
+  "logo": "https://small-sharp-tool.com/logo.svg",
+  "success_url": "/welcome",
+  "env": {
+    "SECRET_TOKEN": {
+      "description": "A secret key for verifying the integrity of signed cookies.",
+      "generator": "secret"
+    },
+    "WEB_CONCURRENCY": {
+      "description": "The number of processes to run.",
+      "value": "5"
+    },
+  },
 }
