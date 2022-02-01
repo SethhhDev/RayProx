@@ -6,7 +6,7 @@
   "keywords": ["node", "html", "proxy"],
    "buildpacks": [
     {
-      "url": "https://github.com/stomita/heroku-buildpack-nodejs"
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest"
     }
   ],
 }
