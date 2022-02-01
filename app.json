@@ -4,7 +4,7 @@
   "repository": "https://github.com/SethhhDev/RayProx.git",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "html", "proxy"],
-   "buildpacks": [
+  "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
     }
