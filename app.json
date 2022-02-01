@@ -3,5 +3,5 @@
   "description": "Proxy using node.js",
   "repository": "https://github.com/SethhhDev/RayProx.git",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
+  "keywords": ["node", "html", "proxy"]
 }
